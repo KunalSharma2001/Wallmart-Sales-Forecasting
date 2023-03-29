@@ -21,7 +21,15 @@ The file contains additional data related to the store, department, and regional
   * CPI : consumer price index
   * MarkDown5 : nonymized data related to promotional markdowns that Walmart is running
   * IsHoliday : whether the week is special holiday week
-  * Unemployment : the unemployment rate
+    * Unemployment : the unemployment rate
+ 
+    **test.csv**
+## Libraries used :
+    ~ NumPy
+    ~ Pandas
+    ~ Pyplot
+    ~ Matplotlib
+    ~ Seaborn
 
 
 
